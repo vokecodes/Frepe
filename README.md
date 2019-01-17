@@ -1,2 +1,2 @@
-# Portfolio
-One page portfolio site built with React.JS. Copyright by Rometheme
+# Frepe
+One page portfolio website built with React.JS. Copyright by Rometheme
