@@ -1,3 +1,6 @@
+# Frepe
+One page portfolio website built with React.JS
+Copyright by Rometheme
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
