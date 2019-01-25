@@ -1,22 +1,24 @@
-import React, { Component } from 'react';
-import './App.css';
-import './frepe.js'
-import Navbar from './components/navbar'
-import Banner from './components/banner'
-import About from './components/about'
-import Work from './components/work'
-import Contact from './components/contact'
-import Footer from './components/footer'
+import React, { Component } from "react";
+import "./App.css";
+import Navbar from "./components/navbar";
+import Banner from "./components/banner";
+import About from "./components/about";
+import Resume from "./components/resume";
+import Work from "./components/work";
+import Testimonial from "./components/testimonial";
+import Contact from "./components/contact";
+import Footer from "./components/footer";
 
 class App extends Component {
   render() {
     return (
-
       <React.Fragment>
         <Navbar />
         <Banner />
         <About />
+        <Resume />
         <Work />
+        <Testimonial />
         <Contact />
         <Footer />
       </React.Fragment>
